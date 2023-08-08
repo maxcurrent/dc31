@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Defcon 31
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
