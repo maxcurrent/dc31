@@ -1,5 +1,10 @@
 # Defcon 31
 
+![defcon31 logo](/assets/defcon31-logo-gradient.webp)
+
+
+---
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
