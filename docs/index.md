@@ -1,6 +1,6 @@
 # Defcon 31
 
-![defcon31 logo](/assets/defcon31-logo-gradient.webp)
+![defcon31 logo](/defcon31-logo-gradient.webp)
 
 
 ---
