@@ -14,3 +14,8 @@ defcon31 (2023)
 
 [Defcon Music](https://defconmusic.org)
 
+
+## DC Darknet NG 12 Badge
+
+https://github.com/darknet-ng/Darknet-NG-12-Badge
+
