@@ -1,3 +1,14 @@
+# Project Information
 site_name: DEFCON 31
+site_url: https://maxcurrent.github.io/dc31/
+
+# Repository
+repo_name: maxcurrent/dc31
+
+# Configuration
 theme:
   name: material
+  features:
+    - navigation.footer
+  palette:
+    - scheme: slate
