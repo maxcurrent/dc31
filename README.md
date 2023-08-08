@@ -2,6 +2,10 @@
 
 defcon31 (2023)
 
+![defcon31 logo](/assets/defcon31-logo-gradient.webp)
+
+![defcon31 logo](https://raw.githubusercontent.com/maxcurrent/dc31/main/assets/defcon31-logo-gradient.webp)
+
 
 ## Quick Links
 
