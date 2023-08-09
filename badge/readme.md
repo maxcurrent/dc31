@@ -1,3 +1,0 @@
-# Defcon 31 Badge Info
-
-???
